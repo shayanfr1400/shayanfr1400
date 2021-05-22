@@ -6,3 +6,4 @@
 
 Welcome to my github here I make Minecraft spigot plugins,
 Forge and fabric mods
+I haven't completely learned java but soon i will start project
