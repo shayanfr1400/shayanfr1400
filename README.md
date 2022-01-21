@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @shayanfr1400
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Welcome to my github here I make Minecraft spigot plugins,
-Forge and fabric mods
-I haven't completely learned java but soon i will start project
+Not gonna be that active here anymore many sometimes 
+But mostly I am gonna be active in my second account 
+                          
+          (RunSpaceSoftware)
